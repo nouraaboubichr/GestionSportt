@@ -98,6 +98,10 @@ La gestion manuelle des inscriptions aux activités sportives pose plusieurs pro
 | **ActiviteSportive** | Nom, description, capacité maximale. |
 | **InscriptionSport** | Activité, utilisateur inscrit, date. |
 
+
+### Architecture 🧩
+![Image](https://github.com/user-attachments/assets/d91423ba-7b91-4b9f-943c-fbfae4a6aa3d)
+
 ### 🎥 [Voir la vidéo de présentation](https://drive.google.com/file/d/18Uk8LbNofxaztdO_6o2mmuTaZXofTRGN/view?usp=drive_link)
 
 
