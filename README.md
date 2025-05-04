@@ -76,7 +76,7 @@ La gestion manuelle des inscriptions aux activités sportives pose plusieurs pro
 ![Image](https://github.com/user-attachments/assets/314bdd28-38cc-4ecc-ae0b-4ca13e619a1f)
 ![Image](https://github.com/user-attachments/assets/cadf0a82-38bb-4183-8886-b1a1ceeaa6c8)
 ![Image](https://github.com/user-attachments/assets/e7b32ecd-736f-4aa4-b10e-6ccf582361f2)
-
+## 🛠 Technologies Utilisées
 ### ⚙️ Côté serveur (Backend)
 - **Java Web** – Utilisé pour la logique métier.
 - **Hibernate** – Pour la persistance des entités sportives, utilisateurs, inscriptions.
