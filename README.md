@@ -100,11 +100,11 @@ La gestion manuelle des inscriptions aux activités sportives pose plusieurs pro
 | **InscriptionSport** | Activité, utilisateur inscrit, date. |
 
 
-### Architecture 🧩
+## Architecture 🧩
 
 ![Image](https://github.com/user-attachments/assets/75b8fa04-1e88-453c-b11f-fb6ea42131aa)
 
-### 🎥 [Voir la vidéo de présentation](https://drive.google.com/file/d/18Uk8LbNofxaztdO_6o2mmuTaZXofTRGN/view?usp=drive_link)
+## 🎥 [Voir la vidéo de présentation](https://drive.google.com/file/d/18Uk8LbNofxaztdO_6o2mmuTaZXofTRGN/view?usp=drive_link)
 
 
 
